@@ -7,3 +7,10 @@ POST
 PUT
 DELETE
 PATCH
+# Six constraints of RESTful APIs
+1. Stateless
+2. Clinet-Server
+3. Uniform Interface
+4. Cacheable
+5. Layered System
+6. Code on Demand
