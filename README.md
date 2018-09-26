@@ -1,7 +1,7 @@
 # RESTful-APIs-wiki
 
 # RESTful API
-REpresentational State Transfer is an architectural style which defines set of constraints to be used to create web service. It is more robust than SOAP. Restful web service interoperates between computer on the internet. REST API explicitly takes advantage of HTTP methodologies it supports almost all HTTP operations i.e.
+REpresentational State Transfer is an architectural style which defines set of constraints to be used to create web service. It is more robust than SOAP. Restful web service interoperates between computer on the internet. REST API explicitly takes advantage of HTTP methodologies to supports almost all HTTP operations i.e.
 GET
 POST
 PUT
